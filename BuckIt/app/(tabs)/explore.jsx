@@ -1,11 +1,11 @@
 import { Text, View } from 'react-native'
 
-const Profile = () => {
+const Explore = () => {
   return (
     <View>
-      <Text>Profile</Text>
+      <Text>Explore</Text>
     </View>
   )
 }
 
-export default Profile
+export default Explore
